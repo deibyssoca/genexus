@@ -1,5 +1,5 @@
 # Guia de estilo para el desarrollo en GeneXus
-por [Deibys SOca]
+por Deibys Soca
 
 [![Licencia Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -692,23 +692,7 @@ La presente guía se realizó buscando los siguientes objetivos:
   - [GeneXus Search](http://search.genexus.com/) - GeneXus
   - [Stackoverflow](https://es.stackoverflow.com/questions/tagged/genexus)
 
-## Empresas que utilizan esta guia
 
-  Esta es una lista de las empresas que están utilizando esta guia de desarrollo. Haganos saber si su empresa utiliza esta guía ([info@sincrum.com](mailto:info@sincrum.com)) o un fork de la misma y lo agregaremos.
-
-- [**Sincrum**](http://sincrum.com)
-- [**Tangocode**](http://tangocode.com)
-- [**GeneXus**](https://www.genexus.com)
-- [**TributApp**](https://www.tributapp.com)
-- [**I+Dev**](http://www.imasdev.com)
-
-
-**[Volver al inicio](#tabla-de-contenidos)**
-
-## Traducciones
-Esta guia de estilo se encuentra también en los siguientes lenguajes:
-
-  - ![us](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-States.png) [**English**](README_en.md) by [Laura Aguiar](https://uy.linkedin.com/in/laura-aguiar-396aa56)
 
 **[Volver al inicio](#tabla-de-contenidos)**
 
