@@ -3,7 +3,7 @@ por [Daniel Monza](https://uy.linkedin.com/in/daniel-monza-62515112)
 
 [![Licencia Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-Por correcciones o mejoras, pueden utilizar los [issues de github](https://github.com/sincrum/genexus/issues) o enviarlas por email a [info@sincrum.com](mailto:info@sincrum.com).
+Por correcciones o mejoras, pueden utilizar los [issues de github](https://github.com/deibyssoca/genexus/issues).
 
 ## Objetivos
 La presente guía se realizó buscando los siguientes objetivos:
